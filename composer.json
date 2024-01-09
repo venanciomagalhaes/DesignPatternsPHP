@@ -1,0 +1,19 @@
+{
+    "name": "venancio/design-patterns",
+    "description": "Repositório contendo design patterns e suas explicações em PHP 8.2",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Venancio\\DesignPatterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Venancio Magalhaes",
+            "email": "venanciomagalhaesd@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
